@@ -10,3 +10,7 @@
 2.  Francisk Skorina Gomel State University (2019-...)
 ### *My level of English:*
    My level of English languages A1
+### *My summary:*
+I want to become a good programmer and I will do my best to achieve this goal in a short time.
+### *My experience:*
+I don't have experience
